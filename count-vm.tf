@@ -8,7 +8,7 @@ resource "yandex_compute_instance" "web" {
     zone = var.web_default_zone
     platform_id = var.standart_platform_id
 
-    # depends_on = [yandex_compute_instance.db ]
+    depends_on = [yandex_compute_instance.db ]
 
     resources {
       cores = var.hardware_config_web.web.core
