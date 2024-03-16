@@ -6,7 +6,6 @@ data "yandex_compute_image" "db" {
 resource "yandex_compute_instance" "db" {
   for_each = tomap({for i in var.each_vm : i.vm_name => i})
   name = each.value.vm_name
-  # Ссылка https://github.com/hashicorp/vscode-terraform/issues/1693
   zone = var.web_default_zone
   platform_id = var.standart_platform_id
 
