@@ -7,6 +7,10 @@
 
 Задание 2.1
 ![Скриншот 15-03-2024 131158](https://github.com/HZTV/Terraform-03/assets/149588305/b587896f-04c1-44ef-a6ea-54eb4ccf5c7a)
+![Скриншот 22-03-2024 105347](https://github.com/HZTV/Terraform-03/assets/149588305/a8df100e-d32c-4eec-a572-7f0099df8015)
+![Скриншот 22-03-2024 105333](https://github.com/HZTV/Terraform-03/assets/149588305/ee8b20a9-a3dc-42a9-9c8c-8dc02447d245)
+
+
 
 Задание 2.2
 ![Скриншот 15-03-2024 124104](https://github.com/HZTV/Terraform-03/assets/149588305/6c554b25-eca4-4b03-9518-a74fcddf5faa)
